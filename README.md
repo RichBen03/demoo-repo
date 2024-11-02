@@ -50,5 +50,13 @@
 * Combines the specified branch with the current branch.
 * Run this in the target branch (e.g., main) to merge another branch’s changes.
 
+**git log**
+* Shows a list of commits in the current branch.
+* Provides commit hashes, author, date, and message.
+  
+**git log --oneline --graph --decorate**
+* Displays the log with a compact, graphical history.
+* Useful for visualizing branch and merge structure.
+
 
 
