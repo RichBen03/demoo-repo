@@ -25,3 +25,18 @@
 * Creates a local copy of a remote repository.
 * Use this to download a project from a remote repository like GitHub.
 
+**git status**
+
+* Shows the state of the working directory and staging area.
+* Tells you if files are staged for commit, modified, or untracked.
+
+**git add <file> or git add .**
+
+* Adds a file (or all changes with .) to the staging area.
+* Run git add before committing to include the changes in the next commit.
+  
+**git commit -m "commit message"**
+
+Records changes to the repository with a descriptive message.
+Use a clear, concise message explaining the changes.
+
