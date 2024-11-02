@@ -58,5 +58,7 @@
 * Displays the log with a compact, graphical history.
 * Useful for visualizing branch and merge structure.
 
+**git diff <branch1> <branch2>**
+* Shows differences between two branches.
 
 
