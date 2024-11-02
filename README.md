@@ -65,4 +65,5 @@
 * Temporarily saves changes without committing.
 * Useful for quickly switching branches without committing unfinished work.
 
-
+**git diff**
+* Shows changes between the working directory and the staging area.
