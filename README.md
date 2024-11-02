@@ -60,5 +60,9 @@
 
 **git diff <branch1> <branch2>**
 * Shows differences between two branches.
+  
+**git stash**
+* Temporarily saves changes without committing.
+* Useful for quickly switching branches without committing unfinished work.
 
 
