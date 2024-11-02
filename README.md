@@ -15,3 +15,13 @@
   
 **git config --list**
 * Displays all the Git configurations for the system.
+
+**git init**
+* Initializes a new Git repository in the current directory.
+* Creates a .git directory where all version control files are stored.
+* Run this in a project folder to start tracking it with Git.
+
+**git clone <repository-url>**
+* Creates a local copy of a remote repository.
+* Use this to download a project from a remote repository like GitHub.
+
