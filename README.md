@@ -31,12 +31,24 @@
 * Tells you if files are staged for commit, modified, or untracked.
 
 **git add <file> or git add .**
-
 * Adds a file (or all changes with .) to the staging area.
 * Run git add before committing to include the changes in the next commit.
   
 **git commit -m "commit message"**
+* Records changes to the repository with a descriptive message.
+* Use a clear, concise message explaining the changes.
 
-Records changes to the repository with a descriptive message.
-Use a clear, concise message explaining the changes.
+**git branch <branch-name>**
+* Creates a new branch but doesn’t switch to it.
+* Useful for developing features without affecting the main branch.
+
+**git checkout <branch-name>**
+* Switches to the specified branch.
+* Essential for working on different branches or reverting to previous versions.
+
+**git merge <branch-name>**
+* Combines the specified branch with the current branch.
+* Run this in the target branch (e.g., main) to merge another branch’s changes.
+
+
 
